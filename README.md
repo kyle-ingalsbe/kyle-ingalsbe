@@ -69,7 +69,7 @@
    <h2> <img  height="27px" src="https://img.shields.io/badge/-Custom_Websites-02bbff?style=plastic&logoColor=white"></h2> 
  <span>
    
-   These Websites were based on WordPress and had custom themes and plugins.
+   These Websites were based on WordPress and had custom themes and plugins. The content or lack of content is the responsibilty of the owners of the Websites. I made the theme and plugins and the owners filled the content. 
    <li><a href="https://liberty-missouri-usa.citysaver.org/"> City Saver </a></li>
    <li><a href="https://unitycommandsblessing.com/"> Unity Commands Blessing </a></li>   
    
