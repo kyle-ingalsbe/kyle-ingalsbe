@@ -57,7 +57,8 @@
 
    <h2> <img  height="27px" src="https://img.shields.io/badge/-Games_made_for_TI89-02bbff?style=plastic&logoColor=white"></h2> 
  <span>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
+   These games were made from scratch - no engine or 3rd party game creation program was used. I had to create the game engine, myself, for these. 
    <li><a href="https://ticalc.org/archives/files/fileinfo/463/46319.html"> Ze1da like clone </a></li>
    <li><a href="https://ticalc.org/archives/files/fileinfo/426/42641.html"> Fina1 Fantasy like clone </a></li>   
  </span> 
@@ -67,7 +68,7 @@
 
    <h2> <img  height="27px" src="https://img.shields.io/badge/-Custom_Websites-02bbff?style=plastic&logoColor=white"></h2> 
  <span>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
    These Websites were based on WordPress and had custom themes and plugins.
    <li><a href="https://liberty-missouri-usa.citysaver.org/"> City Saver </a></li>
    <li><a href="https://unitycommandsblessing.com/"> Unity Commands Blessing </a></li>   
