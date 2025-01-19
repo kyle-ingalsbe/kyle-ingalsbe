@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 
 
+![](https://komarev.com/ghpvc/?username=kyle-ingalsbe&color=brightgreen&abbreviated=true)
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
   <h2> <img height="27px" src="https://img.shields.io/badge/-Languages-02bbff?style=plastic&logoColor=white"></h2> 
 <span> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="22px"  src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
+  <img height="22px" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
   <img height="22px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
   <img height="22px" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
   <img height="22px" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
@@ -37,8 +40,17 @@
    <img height="22px" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code">
  </span> 
  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+ 
+ <h2> <img  height="27px" src="https://img.shields.io/badge/-GitHub_Contributions_Summary-02bbff?style=plastic&logoColor=white"></h2> 
+
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-ingalsbe&hide_border=true&show_icons=true&bg_color=151515&title_color=02bbff&icon_color=02bbff&text_bold=false&text_color=ffffff)
 <!--
 **kyle-ingalsbe/kyle-ingalsbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyle-ingalsbe&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
 
 Here are some ideas to get you started:
 
