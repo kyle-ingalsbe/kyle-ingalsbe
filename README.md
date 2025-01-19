@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 
-
 ![](https://komarev.com/ghpvc/?username=kyle-ingalsbe&color=brightgreen&abbreviated=true)
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<P>
+  Started Coding in high school in 1999. Self taught many different languages. Can read and modify almost any language, except HEX. Mostly made programs for personal use or created Websites for clients. During college, I wrote a couple of different games in C for the TI-89.  
+   
+</P>
+
+ <h2> <img height="27px" src="https://img.shields.io/badge/-Education-02bbff?style=plastic&logoColor=white"></h2> 
+  <ul>
+    <li>Associates in Computer Programming - 2006</li>
+    <li>Associates in Linux Networking - 2006</li>
+  </ul>
+
 
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
   <h2> <img height="27px" src="https://img.shields.io/badge/-Languages-02bbff?style=plastic&logoColor=white"></h2> 
@@ -23,6 +36,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img height="22px" src="https://img.shields.io/badge/MySQL-00758f?style=plastic&logo=mysql&logoColor=white">
   <img height="22px" src="https://img.shields.io/badge/MariaDB-4EA94B?style=plastic&logo=mariadb&logoColor=white">
+    <img height="22px" src="https://img.shields.io/badge/Oracle8i-red?style=plastic&logoColor=white">
 </span>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
