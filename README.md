@@ -5,7 +5,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 <P>
-  Started Coding in high school in 1999. Self taught many different languages. Can read and modify almost any language, except HEX. Mostly made programs for personal use or created Websites for clients. During college, I wrote a couple of different games in C for the TI-89.  Created custom WordPress themes and plugins for clients, too. 
+  Started Coding in high school in 1999. Self taught many different languages. Can read and modify almost any programming language, except HEX. Mostly made programs for personal use or created Websites for clients. During college, I wrote a couple of different games in C for the TI-89.  Created custom WordPress themes and plugins for clients, too. 
    
 </P>
 
