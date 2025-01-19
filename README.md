@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle</h1>
 
 
-  <h2> <img height="27px" src="https://img.shields.io/badge/-Languages-blue?style=plastic&logoColor=white"></h2> 
+  <h2> <img height="27px" src="https://img.shields.io/badge/-Languages-02bbff?style=plastic&logoColor=white"></h2> 
 <span> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="22px"  src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
@@ -15,21 +15,28 @@
 </span>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-  <h2> <img  height="27px" src="https://img.shields.io/badge/-Databases-blue?style=plastic&logoColor=white"></h2> 
+  <h2> <img  height="27px" src="https://img.shields.io/badge/-Databases-02bbff?style=plastic&logoColor=white"></h2> 
 <span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-4EA94B?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img height="22px" src="https://img.shields.io/badge/MySQL-00758f?style=plastic&logo=mysql&logoColor=white">
+  <img height="22px" src="https://img.shields.io/badge/MariaDB-4EA94B?style=plastic&logo=mariadb&logoColor=white">
 </span>
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-  <h2> <img  height="27px" src="https://img.shields.io/badge/-Operating_Systems-blue?style=plastic&logoColor=white"></h2> 
+  <h2> <img  height="27px" src="https://img.shields.io/badge/-Operating_Systems-02bbff?style=plastic&logoColor=white"></h2> 
  <span>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="22px" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-   <img height="22px" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-   
+   <img height="22px" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+   <img height="22px" src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">   
  </span> 
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+   <h2> <img  height="27px" src="https://img.shields.io/badge/-IDE-02bbff?style=plastic&logoColor=white"></h2> 
+ <span>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="22px" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code">
+ </span> 
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 <!--
 **kyle-ingalsbe/kyle-ingalsbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
