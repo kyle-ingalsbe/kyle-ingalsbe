@@ -5,7 +5,7 @@
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 <P>
-  Started Coding in high school in 1999. Self taught many different languages. Can read and modify almost any language, except HEX. Mostly made programs for personal use or created Websites for clients. During college, I wrote a couple of different games in C for the TI-89.  
+  Started Coding in high school in 1999. Self taught many different languages. Can read and modify almost any language, except HEX. Mostly made programs for personal use or created Websites for clients. During college, I wrote a couple of different games in C for the TI-89.  Created custom WordPress themes and plugins for clients, too. 
    
 </P>
 
@@ -54,6 +54,17 @@
    <img height="22px" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code">
  </span> 
  <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+   <h2> <img  height="27px" src="https://img.shields.io/badge/-Games_made_for_TI89-02bbff?style=plastic&logoColor=white"></h2> 
+ <span>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <li><a href="https://ticalc.org/archives/files/fileinfo/463/46319.html"> Ze1da like clone </a></li>
+   <li><a href="https://ticalc.org/archives/files/fileinfo/426/42641.html"> Fina1 Fantasy like clone </a></li>   
+ </span> 
+ <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+
+
 
  
  <h2> <img  height="27px" src="https://img.shields.io/badge/-GitHub_Contributions_Summary-02bbff?style=plastic&logoColor=white"></h2> 
